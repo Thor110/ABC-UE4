@@ -1,0 +1,1898 @@
+﻿Log file open, 01/08/23 23:36:10
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: ABC
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.342049
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 2600X Six-Core Processor           , GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  /Game/Maps/MainMenu -game -PIEVIACONSOLE -Multiprocess "GameUserSettingsINI=C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/PIEGameUserSettings1.ini" -MultiprocessSaveConfig -MultiprocessOSS -messaging -SessionName="Play in Standalone Game" -windowed -ResX=1280 -ResY=720
+LogInit: Base Directory: F:/Unreal Engine/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Engine.ini]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Engine.ini]
+[2023.01.08-23.36.11:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Engine.ini]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Engine.ini]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.01.08-23.36.11:252][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.01.08-23.36.11:253][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.01.08-23.36.11:253][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.01.08-23.36.11:253][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.01.08-23.36.11:253][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.01.08-23.36.11:253][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.01.08-23.36.11:253][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.01.08-23.36.11:253][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Engine.ini]
+[2023.01.08-23.36.11:253][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Engine.ini]
+[2023.01.08-23.36.11:271][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Scalability.ini]
+[2023.01.08-23.36.11:271][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.01.08-23.36.11:271][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.01.08-23.36.11:271][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Scalability.ini]
+[2023.01.08-23.36.11:271][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.01.08-23.36.11:271][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Scalability.ini]
+[2023.01.08-23.36.11:271][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.01.08-23.36.11:271][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.01.08-23.36.11:271][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.01.08-23.36.11:271][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.01.08-23.36.11:271][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.01.08-23.36.11:271][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.01.08-23.36.11:271][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.01.08-23.36.11:271][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.01.08-23.36.11:271][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.01.08-23.36.11:271][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Scalability.ini]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Scalability.ini]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Scalability.ini]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.01.08-23.36.11:272][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Scalability.ini]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Scalability.ini]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.01.08-23.36.11:273][  0]LogInit: Selected Device Profile: [Windows]
+[2023.01.08-23.36.11:273][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.01.08-23.36.11:273][  0]LogHAL: Display: Platform has ~ 16 GB [17125896192 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.08-23.36.11:273][  0]LogInit: Going up to parent DeviceProfile []
+[2023.01.08-23.36.11:273][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Scalability.ini]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Scalability.ini]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Scalability.ini]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.01.08-23.36.11:273][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Scalability.ini]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Scalability.ini]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Scalability.ini]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.01.08-23.36.11:274][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.01.08-23.36.11:275][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.01.08-23.36.11:275][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.01.08-23.36.11:275][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.01.08-23.36.11:275][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.01.08-23.36.11:275][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.01.08-23.36.11:275][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.01.08-23.36.11:275][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.01.08-23.36.11:275][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.01.08-23.36.11:275][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.01.08-23.36.11:275][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.01.08-23.36.11:275][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.01.08-23.36.11:275][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.01.08-23.36.11:275][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.01.08-23.36.11:275][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Scalability.ini]
+[2023.01.08-23.36.11:275][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.01.08-23.36.11:275][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.01.08-23.36.11:275][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Scalability.ini]
+[2023.01.08-23.36.11:275][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.01.08-23.36.11:275][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.01.08-23.36.11:275][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.01.08-23.36.11:275][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.08-23.36.11:275][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.01.08-23.36.11:275][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.01.08-23.36.11:275][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.01.08-23.36.11:275][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Engine.ini]
+[2023.01.08-23.36.11:275][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Editor.ini]
+[2023.01.08-23.36.11:275][  0]LogInit: Computer: DESKTOP-S4I63BF
+[2023.01.08-23.36.11:275][  0]LogInit: User: bod
+[2023.01.08-23.36.11:275][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.01.08-23.36.11:275][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.08-23.36.11:275][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.01.08-23.36.11:275][  0]LogMemory: Platform Memory Stats for Windows
+[2023.01.08-23.36.11:276][  0]LogMemory: Process Physical Memory: 138.02 MB used, 138.03 MB peak
+[2023.01.08-23.36.11:276][  0]LogMemory: Process Virtual Memory: 112.11 MB used, 112.11 MB peak
+[2023.01.08-23.36.11:276][  0]LogMemory: Physical Memory: 9082.12 MB used,  7250.40 MB free, 16332.53 MB total
+[2023.01.08-23.36.11:276][  0]LogMemory: Virtual Memory: 134210904.00 MB used,  6825.97 MB free, 134217728.00 MB total
+[2023.01.08-23.36.11:284][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.08-23.36.11:356][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.01.08-23.36.11:357][  0]LogInit: Using OS detected language (en-US).
+[2023.01.08-23.36.11:357][  0]LogInit: Using OS detected locale (en-GB).
+[2023.01.08-23.36.11:359][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.01.08-23.36.11:606][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.01.08-23.36.11:651][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.08-23.36.11:651][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.08-23.36.11:690][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.01.08-23.36.11:690][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.01.08-23.36.11:690][  0]LogD3D11RHI: D3D11 adapters:
+[2023.01.08-23.36.11:856][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2023.01.08-23.36.11:856][  0]LogD3D11RHI:       6052/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.01.08-23.36.11:860][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.01.08-23.36.11:860][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.01.08-23.36.11:860][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.01.08-23.36.11:869][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.01.08-23.36.11:870][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2023.01.08-23.36.11:870][  0]LogWindows: EnumDisplayDevices:
+[2023.01.08-23.36.11:870][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2023.01.08-23.36.11:870][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2023.01.08-23.36.11:871][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2023.01.08-23.36.11:872][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2023.01.08-23.36.11:872][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.01.08-23.36.11:872][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2023.01.08-23.36.11:872][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2023.01.08-23.36.11:872][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2023.01.08-23.36.11:872][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2023.01.08-23.36.11:970][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.01.08-23.36.11:971][  0]LogD3D11RHI: Async texture creation enabled
+[2023.01.08-23.36.11:971][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.01.08-23.36.12:004][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.01.08-23.36.12:006][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.01.08-23.36.12:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.01.08-23.36.12:439][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.08-23.36.12:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.08-23.36.12:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.08-23.36.12:460][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.01.08-23.36.12:469][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.08-23.36.12:544][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.01.08-23.36.12:544][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Intermediate/Shaders/WorkingDirectory/13800/).
+[2023.01.08-23.36.12:544][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bod/AppData/Local/Temp/UnrealShaderWorkingDir/B921FCC6487D62900D377D88DF5B9C65/'.
+[2023.01.08-23.36.12:544][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.01.08-23.36.12:544][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.01.08-23.36.13:426][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.01.08-23.36.13:491][  0]LogDerivedDataCache: Loaded boot cache 0.06s 96MB C:/Users/bod/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2023.01.08-23.36.13:491][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/bod/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2023.01.08-23.36.13:491][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.08-23.36.13:491][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.01.08-23.36.13:491][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.08-23.36.13:491][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.01.08-23.36.13:504][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.01.08-23.36.13:505][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.08-23.36.13:505][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.01.08-23.36.13:513][  0]LogDerivedDataCache: Speed tests for C:/Users/bod/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.01.08-23.36.13:513][  0]LogDerivedDataCache: Display: Performance to C:/Users/bod/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=661.61MBs, RandomWriteSpeed=153.15MBs. Assigned SpeedClass 'Local'
+[2023.01.08-23.36.13:514][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bod/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.08-23.36.13:514][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.08-23.36.13:514][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.01.08-23.36.13:552][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.08-23.36.13:552][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.08-23.36.13:651][  0]LogInit: Using OS detected language (en-US).
+[2023.01.08-23.36.13:651][  0]LogInit: Using OS detected locale (en-GB).
+[2023.01.08-23.36.13:651][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.01.08-23.36.13:651][  0]LogTextLocalizationManager: No localization for 'en-GB' exists, so 'en' will be used for the locale.
+[2023.01.08-23.36.13:651][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2023.01.08-23.36.13:651][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2023.01.08-23.36.13:653][  0]LogTextLocalizationManager: Compacting localization data took   0.01ms
+[2023.01.08-23.36.13:656][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2023.01.08-23.36.13:869][  0]LogPackageLocalizationCache: Processed 20 localized package path(s) for 1 prioritized culture(s) in 0.001132 seconds
+[2023.01.08-23.36.13:941][  0]LogInit: Selected Device Profile: [Windows]
+[2023.01.08-23.36.13:941][  0]LogInit: Active device profile: [0000016FED8C2200][0000016FE58A5840 49] Windows
+[2023.01.08-23.36.13:941][  0]LogInit: Profiles: [0000016FED8C2200][0000016FE58A5840 49] Windows, [0000016FED859600][0000016FE58AD9C0 49] WindowsNoEditor, [0000016FED8C1800][0000016FE58B1B40 49] WindowsServer, [0000016FED859F00][0000016FE58B5CC0 49] WindowsClient, [0000016FED8C2D00][0000016FE58B8180 49] IOS, [0000016FED85B300][0000016FE58BC300 49] iPadAir, [0000016FED8C2600][0000016FE58C0480 49] iPadAir2, [0000016FED801B00][0000016FE58C8740 49] IPadPro, [0000016FED801C00][0000016FE58C4780 49] iPadAir3, [0000016FED858A00][0000016FE614A900 49] iPadAir4, [0000016FED803400][0000016FE614EA80 49] iPadMini2, [0000016FED85B000][0000016FE6152C00 49] iPadMini3, [0000016FED801400][0000016FE6156D80 49] iPadMini4, [0000016FED858600][0000016FE615AF00 49] iPadMini5, [0000016FED825300][0000016FE615F140 49] iPhone6, [0000016FED825400][0000016FE58A9180 49] iPodTouch6, [0000016FED800500][0000016FE61673C0 49] iPhone7, [0000016FED801000][0000016FE6163400 49] iPodTouch7, [0000016FED826B00][0000016FE616F580 49] iPhone5S, [0000016FED802600][0000016FE6173700 49] iPhone6Plus, [0000016FED827C00][0000016FE6177880 49] iPhone6S, [0000016FED803200][0000016FE617BA00 49] iPhone6SPlus, [0000016FED824700][0000016FE617FB80 49] iPhone7Plus, [0000016FED800A00][0000016FE6183D00 49] iPhoneSE, [0000016FED826300][0000016FE61861C0 49] iPhone8, [0000016FED801700][0000016FE618A340 49] iPhone8Plus, [0000016FED824400][0000016FE618E4C0 49] iPhoneX, [0000016FED802300][0000016FE6192640 49] iPhoneXS, [0000016FED825F00][0000016FE61967C0 49] iPhoneXSMax, [0000016FED801A00][0000016FE619A940 49] iPhoneXR, [0000016FED824D00][0000016FE619EAC0 49] iPhone11, [0000016FED802200][0000016FE61A2C40 49] iPhone11Pro, [0000016FED826100][0000016FE61A6DC0 49] iPhone11ProMax, [0000016FED803500][0000016FE61AAF40 49] iPhoneSE2, [0000016FED827300][0000016FE61AF0C0 49] iPhone12Mini, [0000016FED802A00][0000016FE616B200 49] iPhone12, [0000016FED825B00][0000016FE61B3340 49] iPhone12Pro, [0000016FED802B00][0000016FE61B7480 49] iPhone12ProMax, [0000016FED8C1A00][0000016FE61BF600 49] iPadPro105, [0000016FED802800][0000016FE61C3780 49] iPadPro129, [0000016FED8C0500][0000016FE61C7900 49] iPadPro97, [0000016FED802700][0000016FE61CBA80 49] iPadPro2_129, [0000016FED8C2E00][0000016FE61CFC00 49] iPad5, [0000016FED801200][0000016FE61D20C0 49] iPad6, [0000016FED8C0800][0000016FE61D6240 49] iPad7, [0000016FED801600][0000016FE61DA3C0 49] iPad8, [0000016FED8C0C00][0000016FE61DE540 49] iPadPro11, [0000016FED800300][0000016FE61E26C0 49] iPadPro2_11, [0000016FED8C0900][0000016FE61E6840 49] iPadPro3_129, [0000016FED803900][0000016FE61EA9C0 49] iPadPro4_129, [0000016FED8C0600][0000016FE61EEB40 49] AppleTV, [0000016FED800600][0000016FE61F2CC0 49] AppleTV4K, [0000016FED8C2800][0000016FE61F6E40 49] TVOS, [0000016FED800B00][0000016FE61FAFC0 49] Mac, [0000016FED8C1500][0000016FE61FF140 49] MacClient, [0000016FED801500][0000016FE61BB280 49] MacNoEditor, [0000016FED8C0B00][0000016FE62033C0 49] MacServer, [0000016FED802100][0000016FE6207500 49] Linux, [0000016FED8C1100][0000016FE620B640 49] LinuxAArch64, [0000016FED801900][0000016FE62137C0 49] LinuxNoEditor, [0000016FED8C0200][0000016FE6217940 49] LinuxAArch64NoEditor, [0000016FED800C00][0000016FE621BAC0 49] LinuxClient, [0000016FED8C1200][0000016FE621FC40 49] LinuxAArch64Client, [0000016FED802D00][0000016FE6222100 49] LinuxServer, [0000016FED8C1000][0000016FE6226280 49] LinuxAArch64Server, [0000016FED800100][0000016FE622A400 49] Android, [0000016FED8C0F00][0000016FE622E580 49] Android_Low, [0000016FED803700][0000016FE6232700 49] Android_Mid, [0000016FED8C0700][0000016FE6236880 49] Android_High, [0000016FED803600][0000016FE623AA00 49] Android_Default, [0000016FED8C1700][0000016FE623EB80 49] Android_Adreno4xx, [0000016FED803B00][0000016FE6242D00 49] Android_Adreno5xx_Low, [0000016FED8C2B00][0000016FE6246E80 49] Android_Adreno5xx, [0000016FED85A000][0000016FE624B000 49] Android_Adreno6xx, [0000016FED826500][0000016FE624F180 49] Android_Adreno6xx_Vulkan, [0000016FED85A600][0000016FE620F2C0 49] Android_Mali_T6xx, [0000016FED826F00][0000016FE6253400 49] Android_Mali_T7xx, [0000016FED85B600][0000016FE6257540 49] Android_Mali_T8xx, [0000016FED827D00][0000016FE625B680 49] Android_Mali_G71, [0000016FED85A200][0000016FE6263800 49] Android_Mali_G72, [0000016FED824600][0000016FE6267980 49] Android_Mali_G72_Vulkan, [0000016FED85A800][0000016FE626BB00 49] Android_Mali_G76, [0000016FED825000][0000016FE626FC80 49] Android_Mali_G76_Vulkan, [0000016FED85A300][0000016FE6272140 49] Android_Mali_G77, [0000016FED825A00][0000016FE62762C0 49] Android_Mali_G77_Vulkan, [0000016FED859500][0000016FE627A440 49] Android_Vulkan_SM5, [0000016FED824A00][0000016FE627E5C0 49] Android_PowerVR_G6xxx, [0000016FED85A700][0000016FE6282740 49] Android_PowerVR_GT7xxx, [0000016FED827700][0000016FE62868C0 49] Android_PowerVR_GE8xxx, [0000016FED858500][0000016FE628AA40 49] Android_PowerVR_GM9xxx, [0000016FED825500][0000016FE5AF2BC0 49] Android_PowerVR_GM9xxx_Vulkan, [0000016FED85AE00][0000016FE5AF6D40 49] Android_TegraK1, [0000016FED826400][0000016FE5AFAEC0 49] Android_Unknown_Vulkan, [0000016FED859300][0000016FE5AFF040 49] Lumin, [0000016FED826D00][0000016FE5B031C0 49] Lumin_Desktop, [0000016FED858C00][0000016FE5B07340 49] HoloLens, 
+[2023.01.08-23.36.13:987][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.08-23.36.13:987][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.08-23.36.13:987][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.08-23.36.13:987][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.08-23.36.13:987][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.08-23.36.14:091][  0]LogNetVersion: ABC 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 122759678)
+[2023.01.08-23.36.14:526][  0]LogMoviePlayer: Initializing movie player
+[2023.01.08-23.36.14:717][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.01.08-23.36.14:719][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.01.08-23.36.14:770][  0]SourceControl: Source control is disabled
+[2023.01.08-23.36.14:770][  0]SourceControl: Source control is disabled
+[2023.01.08-23.36.14:775][  0]SourceControl: Source control is disabled
+[2023.01.08-23.36.14:785][  0]LogUProjectInfo: Found projects:
+[2023.01.08-23.36.14:887][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.01.08-23.36.14:896][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.08-23.36.14:896][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.08-23.36.14:935][  0]LogUObjectArray: 19876 objects as part of root set at end of initial load.
+[2023.01.08-23.36.14:935][  0]LogUObjectAllocator: 5276704 out of 0 bytes used by permanent object pool.
+[2023.01.08-23.36.14:935][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.08-23.36.14:984][  0]LogEngine: Initializing Engine...
+[2023.01.08-23.36.14:985][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.01.08-23.36.14:986][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.01.08-23.36.15:100][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.08-23.36.15:100][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.08-23.36.15:106][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.08-23.36.15:106][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.08-23.36.15:106][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.08-23.36.15:106][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.08-23.36.15:106][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.08-23.36.15:106][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.08-23.36.15:106][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.08-23.36.15:106][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.08-23.36.15:106][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.08-23.36.15:106][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.08-23.36.15:106][  0]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.08-23.36.15:106][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.08-23.36.15:130][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.08-23.36.15:130][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.01.08-23.36.15:180][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.01.08-23.36.15:187][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.08-23.36.15:189][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.08-23.36.15:189][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.08-23.36.15:190][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.08-23.36.15:191][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.08-23.36.15:191][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.08-23.36.15:191][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.08-23.36.15:192][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.08-23.36.15:192][  0]LogInit: FAudioDevice initialized.
+[2023.01.08-23.36.15:193][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.08-23.36.15:193][  0]LogInit: Texture streaming: Enabled
+[2023.01.08-23.36.15:276][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.08-23.36.15:277][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.08-23.36.15:278][  0]LogInit: Display: Game Engine Initialized.
+[2023.01.08-23.36.15:278][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2023.01.08-23.36.15:307][  0]LogInit: Display: Starting Game.
+[2023.01.08-23.36.15:307][  0]LogNet: Browse: /Game/Maps/MainMenu?Name=Player
+[2023.01.08-23.36.15:307][  0]LogLoad: LoadMap: /Game/Maps/MainMenu?Name=Player
+[2023.01.08-23.36.15:307][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2023.01.08-23.36.15:309][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.08-23.36.15:309][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.08-23.36.15:317][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.08-23.36.15:321][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.01.08-23.36.15:641][  0]LogBlueprint: Warning: [AssetLog] C:\Users\bod\OneDrive\Documents\Unreal Projects\ABC\Content\Game\Blueprints\Menu\HostMenu.uasset: [Compiler] Create Widget  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2023.01.08-23.36.16:061][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.01.08-23.36.16:066][  0]LogAIModule: Creating AISystem for world MainMenu
+[2023.01.08-23.36.16:066][  0]LogLoad: Game class is 'MenuMode_C'
+[2023.01.08-23.36.16:074][  0]LogWorld: Bringing World /Game/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2023.01.08-23.36.16
+[2023.01.08-23.36.16:074][  0]LogWorld: Bringing up level for play took: 0.007888
+[2023.01.08-23.36.16:076][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.08-23.36.16:076][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.08-23.36.16:076][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.01.08-23.36.16:078][  0]r.SetRes = "1024x768w"
+[2023.01.08-23.36.16:078][  0]sg.ResolutionQuality = "100"
+[2023.01.08-23.36.16:079][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Scalability.ini]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.01.08-23.36.16:079][  0]sg.ViewDistanceQuality = "3"
+[2023.01.08-23.36.16:079][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Scalability.ini]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.01.08-23.36.16:079][  0]sg.AntiAliasingQuality = "3"
+[2023.01.08-23.36.16:079][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Scalability.ini]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.01.08-23.36.16:079][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.01.08-23.36.16:079][  0]sg.PostProcessQuality = "3"
+[2023.01.08-23.36.16:079][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Scalability.ini]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.01.08-23.36.16:080][  0]sg.ShadowQuality = "3"
+[2023.01.08-23.36.16:080][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Scalability.ini]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.01.08-23.36.16:080][  0]sg.TextureQuality = "3"
+[2023.01.08-23.36.16:080][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/bod/OneDrive/Documents/Unreal Projects/ABC/Saved/Config/Windows/Scalability.ini]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.01.08-23.36.16:080][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.01.08-23.36.16:081][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.01.08-23.36.16:081][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.01.08-23.36.16:081][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.01.08-23.36.16:081][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.01.08-23.36.16:081][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.01.08-23.36.16:081][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.01.08-23.36.16:081][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.01.08-23.36.16:081][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.01.08-23.36.16:081][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.01.08-23.36.16:081][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.01.08-23.36.16:081][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.01.08-23.36.16:081][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.01.08-23.36.16:081][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.01.08-23.36.16:081][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.01.08-23.36.16:081][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.01.08-23.36.16:081][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2023.01.08-23.36.16:081][  0]sg.EffectsQuality = "3"
+[2023.01.08-23.36.16:081][  0]LogScript: Warning: Accessed None trying to read property SettingsMenuWidget
+	MainMenu_C /Engine/Transient.GameEngine_0:MyGameInstance_C_0.MainMenu_C_0
+	Function /Game/Game/Blueprints/Menu/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu:03C2
+[2023.01.08-23.36.16:081][  0]LogScript: Warning: Script call stack:
+	Function /Game/Maps/MainMenu.MainMenu_C:ReceiveBeginPlay
+	Function /Game/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+	Function /Game/Game/Blueprints/Menu/MainMenu.MainMenu_C:Auto Load Menu
+	Function /Game/Game/Blueprints/Menu/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+
+[2023.01.08-23.36.16:082][  0]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.01.08-23.36.16:082][  0]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.01.08-23.36.16:082][  0]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.01.08-23.36.16:082][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.01.08-23.36.16:082][  0]LogLoad: Took 0.774851 seconds to LoadMap(/Game/Maps/MainMenu)
+[2023.01.08-23.36.16:323][  0]LogRenderer: Reallocating scene render targets to support 1024x768 Format 10 NumSamples 1 (Frame:1).
+[2023.01.08-23.36.16:323][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.08-23.36.16:323][  0]LogLoad: (Engine Initialization) Total time: 6.34 seconds
+[2023.01.08-23.36.16:323][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.08-23.36.16:323][  0]LogInit: First time updating LLM stats...
+[2023.01.08-23.36.16:327][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.08-23.36.16:333][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.08-23.36.20:174][206]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:191][207]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.08-23.36.20:191][207]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:205][208]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:222][209]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:241][210]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:255][211]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:274][212]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:288][213]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:308][214]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:322][215]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:341][216]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:356][217]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:374][218]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:389][219]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:408][220]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:422][221]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:441][222]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:456][223]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:474][224]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:489][225]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:508][226]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:522][227]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:542][228]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:556][229]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:575][230]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:589][231]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:607][232]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:622][233]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:641][234]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:655][235]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:672][236]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:688][237]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:705][238]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:723][239]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:738][240]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:755][241]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:773][242]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:789][243]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:808][244]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:822][245]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:841][246]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:855][247]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:874][248]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:889][249]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:905][250]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:924][251]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:939][252]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:955][253]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:974][254]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.20:989][255]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:008][256]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:022][257]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:041][258]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:055][259]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:074][260]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:090][261]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:108][262]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:122][263]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:141][264]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:155][265]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:174][266]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:190][267]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:208][268]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:222][269]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:241][270]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:256][271]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:273][272]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:291][273]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:306][274]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:322][275]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:342][276]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:356][277]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:374][278]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:390][279]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:408][280]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:423][281]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:441][282]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:455][283]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:474][284]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:489][285]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:508][286]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:522][287]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:542][288]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:556][289]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:575][290]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:589][291]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:608][292]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:623][293]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:639][294]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:657][295]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:672][296]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:691][297]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:706][298]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:724][299]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:739][300]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:758][301]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:773][302]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:791][303]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:806][304]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:823][305]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:841][306]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:856][307]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:874][308]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:889][309]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:908][310]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:922][311]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:942][312]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:955][313]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:972][314]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.21:989][315]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:008][316]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:022][317]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:042][318]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:056][319]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:074][320]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:090][321]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:106][322]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:124][323]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:140][324]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:157][325]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:175][326]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:189][327]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:209][328]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:223][329]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:242][330]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:256][331]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:274][332]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:288][333]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:307][334]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:322][335]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:342][336]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:355][337]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:374][338]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:389][339]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:407][340]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:422][341]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:441][342]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:455][343]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:475][344]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:490][345]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:506][346]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:525][347]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:541][348]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:558][349]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:573][350]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:590][351]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:606][352]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:624][353]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:639][354]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:656][355]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:674][356]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:689][357]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:709][358]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:723][359]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:742][360]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:756][361]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:773][362]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:791][363]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:806][364]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:824][365]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:839][366]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:856][367]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:874][368]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:889][369]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:908][370]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:922][371]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:940][372]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:958][373]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:972][374]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.22:989][375]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:008][376]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:022][377]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:042][378]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:056][379]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:075][380]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:089][381]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:108][382]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:122][383]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:141][384]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:155][385]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:174][386]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:189][387]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:208][388]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:223][389]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:241][390]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:256][391]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:274][392]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:289][393]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:307][394]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:322][395]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:341][396]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:356][397]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:374][398]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:389][399]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:408][400]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:422][401]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:441][402]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:456][403]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:474][404]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:489][405]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:506][406]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:524][407]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:540][408]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:558][409]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:573][410]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:591][411]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:605][412]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:622][413]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:640][414]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:655][415]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:675][416]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:689][417]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:708][418]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:722][419]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:742][420]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:756][421]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:775][422]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:790][423]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:806][424]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:825][425]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:840][426]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:858][427]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:873][428]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:892][429]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:906][430]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:925][431]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:940][432]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:958][433]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:973][434]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.23:992][435]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:007][436]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:025][437]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:039][438]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:058][439]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:072][440]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:091][441]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:105][442]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:125][443]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:140][444]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:158][445]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:173][446]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:190][447]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:209][448]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:223][449]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:241][450]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:256][451]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:272][452]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:289][453]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:307][454]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:322][455]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:341][456]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:355][457]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:374][458]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:389][459]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:407][460]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:422][461]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:441][462]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:455][463]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:474][464]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:489][465]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:507][466]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:522][467]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:544][468]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:561][469]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:579][470]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:592][471]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:613][472]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:631][473]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:645][474]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:657][475]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:677][476]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:690][477]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:710][478]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:733][479]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:743][480]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:758][481]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:777][482]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:793][483]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:810][484]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:825][485]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:846][486]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:862][487]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:873][488]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:895][489]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:910][490]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:924][491]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:944][492]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:959][493]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:977][494]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.24:995][495]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:012][496]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:023][497]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:043][498]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:064][499]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:076][500]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:091][501]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:109][502]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:123][503]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:143][504]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:162][505]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:180][506]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:195][507]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:206][508]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:228][509]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:240][510]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:261][511]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:276][512]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:294][513]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:312][514]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:326][515]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:342][516]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:359][517]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:376][518]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:395][519]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:409][520]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:426][521]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:441][522]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:459][523]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:474][524]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:493][525]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:508][526]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:526][527]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:541][528]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:560][529]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:575][530]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:594][531]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:612][532]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:627][533]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:641][534]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:660][535]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:681][536]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:691][537]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:715][538]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:727][539]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:746][540]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:760][541]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:778][542]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:793][543]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:808][544]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:830][545]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:843][546]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:860][547]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:875][548]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:894][549]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:908][550]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:927][551]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:941][552]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:961][553]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:975][554]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.25:993][555]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:008][556]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:027][557]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:048][558]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:060][559]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:079][560]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:094][561]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:113][562]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:128][563]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:145][564]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:163][565]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:179][566]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:195][567]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:211][568]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:227][569]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:244][570]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:264][571]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:277][572]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:295][573]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:310][574]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:328][575]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:343][576]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:363][577]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:382][578]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:395][579]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:414][580]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:430][581]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:446][582]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:461][583]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:481][584]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:493][585]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:512][586]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:526][587]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:543][588]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:562][589]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:578][590]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:597][591]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:612][592]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:629][593]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:645][594]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:662][595]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:677][596]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:698][597]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:710][598]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:726][599]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:745][600]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:760][601]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:779][602]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:794][603]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:815][604]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:831][605]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:848][606]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:863][607]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:881][608]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:896][609]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:913][610]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:929][611]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:945][612]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:960][613]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:979][614]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.26:994][615]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:012][616]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:031][617]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:048][618]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:061][619]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:075][620]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:090][621]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:109][622]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:123][623]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:142][624]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:156][625]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:174][626]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:189][627]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:208][628]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:222][629]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:242][630]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:256][631]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:274][632]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:290][633]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:306][634]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:323][635]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:341][636]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:356][637]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:374][638]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:390][639]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:410][640]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:425][641]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:441][642]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:459][643]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:475][644]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:491][645]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:508][646]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:526][647]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:542][648]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:561][649]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:574][650]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:591][651]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:606][652]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:624][653]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:639][654]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:656][655]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:674][656]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:689][657]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:707][658]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:724][659]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:740][660]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:758][661]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:773][662]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:793][663]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:806][664]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:824][665]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:840][666]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:858][667]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:873][668]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:891][669]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:908][670]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:924][671]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:939][672]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:956][673]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:973][674]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.27:991][675]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:007][676]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:024][677]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:051][678]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:110][679]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:140][680]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:155][681]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:174][682]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:201][683]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:206][684]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:222][685]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:240][686]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:250][687]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:266][688]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:276][689]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:300][690]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:309][691]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:333][692]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:342][693]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:366][694]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:379][695]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:401][696]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:414][697]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:431][698]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:443][699]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:463][700]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:483][701]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:497][702]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:510][703]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:531][704]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:546][705]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:563][706]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:577][707]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:596][708]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:610][709]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:630][710]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:643][711]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:663][712]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:682][713]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:698][714]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:712][715]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:730][716]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:745][717]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:764][718]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:782][719]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:797][720]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:810][721]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:830][722]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:843][723]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:863][724]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:877][725]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:897][726]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:913][727]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:931][728]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:943][729]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:964][730]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:978][731]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.28:991][732]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:008][733]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:027][734]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:040][735]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:059][736]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:080][737]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:098][738]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:107][739]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:128][740]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:144][741]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:160][742]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:174][743]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:191][744]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:210][745]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:223][746]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:242][747]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:257][748]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:273][749]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:292][750]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:307][751]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:326][752]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:340][753]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:358][754]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:373][755]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:391][756]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:406][757]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:425][758]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:440][759]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:458][760]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:473][761]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:492][762]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:506][763]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:525][764]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:540][765]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:557][766]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:575][767]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:590][768]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:607][769]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:625][770]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:640][771]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:658][772]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:673][773]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:693][774]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:707][775]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:724][776]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:740][777]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:758][778]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:772][779]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:791][780]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:806][781]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:824][782]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:839][783]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:855][784]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:874][785]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:890][786]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:908][787]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:923][788]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:941][789]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:956][790]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:975][791]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.29:990][792]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:008][793]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:022][794]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:039][795]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:055][796]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:074][797]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:090][798]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:108][799]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:122][800]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:141][801]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:156][802]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:174][803]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:191][804]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:208][805]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:222][806]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:240][807]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:256][808]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:275][809]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:290][810]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:307][811]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:323][812]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:341][813]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:356][814]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:374][815]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:389][816]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:408][817]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:423][818]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:439][819]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:456][820]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:474][821]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:490][822]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:506][823]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:524][824]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:539][825]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:558][826]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:572][827]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:592][828]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:606][829]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:625][830]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:640][831]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:658][832]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:673][833]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:693][834]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:706][835]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:725][836]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:740][837]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:759][838]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:773][839]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:792][840]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:806][841]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:825][842]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:840][843]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:858][844]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:873][845]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:892][846]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:906][847]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:925][848]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:940][849]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:958][850]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:973][851]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.30:992][852]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:006][853]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:025][854]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:040][855]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:059][856]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:073][857]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:090][858]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:106][859]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:125][860]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:140][861]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:158][862]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:173][863]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:191][864]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:206][865]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:225][866]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:240][867]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:256][868]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:274][869]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:290][870]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:308][871]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:323][872]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:341][873]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:356][874]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:375][875]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:390][876]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:408][877]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:423][878]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:440][879]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:459][880]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:473][881]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:492][882]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:506][883]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:525][884]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:540][885]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:556][886]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:575][887]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:590][888]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:608][889]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:623][890]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:642][891]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:656][892]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:675][893]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:690][894]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:708][895]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:723][896]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:741][897]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:756][898]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:774][899]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:790][900]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:807][901]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:822][902]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:841][903]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:855][904]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:872][905]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:891][906]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:906][907]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:924][908]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:939][909]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:955][910]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:974][911]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.31:989][912]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:009][913]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:023][914]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:042][915]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:057][916]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:073][917]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:091][918]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:106][919]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:125][920]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:140][921]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:158][922]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:173][923]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:192][924]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:206][925]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:225][926]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:240][927]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:259][928]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:273][929]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:292][930]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:306][931]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:323][932]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:341][933]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:356][934]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:376][935]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:389][936]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:409][937]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:423][938]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:442][939]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:456][940]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:473][941]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:492][942]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:507][943]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:525][944]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:541][945]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:558][946]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:573][947]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:590][948]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:608][949]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:623][950]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:642][951]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:656][952]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:674][953]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:689][954]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:708][955]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:722][956]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:741][957]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:756][958]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:774][959]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:790][960]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:808][961]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:823][962]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:842][963]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:856][964]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:873][965]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:889][966]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:907][967]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:923][968]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:940][969]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:958][970]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:972][971]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.32:991][972]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:006][973]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:024][974]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:039][975]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:057][976]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:072][977]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:091][978]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:107][979]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:124][980]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:140][981]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:158][982]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:172][983]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:190][984]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:206][985]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:225][986]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:240][987]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:258][988]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:273][989]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:292][990]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:306][991]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:325][992]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:339][993]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:359][994]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:373][995]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:390][996]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:408][997]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:423][998]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:441][999]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:456][  0]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:473][  1]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:492][  2]LogBlueprintUserMessages: [LobbyMenu_C_0] FALSE
+[2023.01.08-23.36.33:583][  3]LogSlate: Window 'ABC (64-bit Development PCD3D_SM5) ' being destroyed
+[2023.01.08-23.36.33:584][  3]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.01.08-23.36.33:597][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.08-23.36.33:597][  3]LogEngine: All Windows Closed
+[2023.01.08-23.36.33:597][  3]LogWindows: FPlatformMisc::RequestExit(0)
+[2023.01.08-23.36.33:597][  3]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.01.08-23.36.33:598][  4]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.01.08-23.36.33:598][  4]LogInit: Display: PreExit Game.
+[2023.01.08-23.36.33:613][  4]LogWorld: BeginTearingDown for /Game/Maps/MainMenu
+[2023.01.08-23.36.33:613][  4]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.01.08-23.36.33:614][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.08-23.36.33:997][  4]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.01.08-23.36.33:997][  4]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.01.08-23.36.33:997][  4]LogAudio: Display: Audio Device unregistered from world 'MainMenu'.
+[2023.01.08-23.36.33:998][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.08-23.36.33:998][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.08-23.36.34:010][  4]LogAudio: Display: Audio Device Manager Shutdown
+[2023.01.08-23.36.34:013][  4]LogExit: Preparing to exit.
+[2023.01.08-23.36.34:733][  4]LogMoviePlayer: Shutting down movie player
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C2200] Windows
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C2300] Default__DeviceProfile
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED859600] WindowsNoEditor
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C1800] WindowsServer
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED859F00] WindowsClient
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C2D00] IOS
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED85B300] iPadAir
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C2600] iPadAir2
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED801B00] IPadPro
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED801C00] iPadAir3
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED858A00] iPadAir4
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED803400] iPadMini2
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED85B000] iPadMini3
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED801400] iPadMini4
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED858600] iPadMini5
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED825300] iPhone6
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED825400] iPodTouch6
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED800500] iPhone7
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED801000] iPodTouch7
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED826B00] iPhone5S
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED802600] iPhone6Plus
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED827C00] iPhone6S
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED803200] iPhone6SPlus
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED824700] iPhone7Plus
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED800A00] iPhoneSE
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED826300] iPhone8
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED801700] iPhone8Plus
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED824400] iPhoneX
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED802300] iPhoneXS
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED825F00] iPhoneXSMax
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED801A00] iPhoneXR
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED824D00] iPhone11
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED802200] iPhone11Pro
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED826100] iPhone11ProMax
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED803500] iPhoneSE2
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED827300] iPhone12Mini
+[2023.01.08-23.36.34:851][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED802A00] iPhone12
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED825B00] iPhone12Pro
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED802B00] iPhone12ProMax
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C1A00] iPadPro105
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED802800] iPadPro129
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C0500] iPadPro97
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED802700] iPadPro2_129
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C2E00] iPad5
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED801200] iPad6
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C0800] iPad7
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED801600] iPad8
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C0C00] iPadPro11
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED800300] iPadPro2_11
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C0900] iPadPro3_129
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED803900] iPadPro4_129
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C0600] AppleTV
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED800600] AppleTV4K
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C2800] TVOS
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED800B00] Mac
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C1500] MacClient
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED801500] MacNoEditor
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C0B00] MacServer
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED802100] Linux
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C1100] LinuxAArch64
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED801900] LinuxNoEditor
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C0200] LinuxAArch64NoEditor
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED800C00] LinuxClient
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C1200] LinuxAArch64Client
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED802D00] LinuxServer
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C1000] LinuxAArch64Server
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED800100] Android
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C0F00] Android_Low
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED803700] Android_Mid
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C0700] Android_High
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED803600] Android_Default
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C1700] Android_Adreno4xx
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED803B00] Android_Adreno5xx_Low
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED8C2B00] Android_Adreno5xx
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED85A000] Android_Adreno6xx
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED826500] Android_Adreno6xx_Vulkan
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED85A600] Android_Mali_T6xx
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED826F00] Android_Mali_T7xx
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED85B600] Android_Mali_T8xx
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED827D00] Android_Mali_G71
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED85A200] Android_Mali_G72
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED824600] Android_Mali_G72_Vulkan
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED85A800] Android_Mali_G76
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED825000] Android_Mali_G76_Vulkan
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED85A300] Android_Mali_G77
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED825A00] Android_Mali_G77_Vulkan
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED859500] Android_Vulkan_SM5
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED824A00] Android_PowerVR_G6xxx
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED85A700] Android_PowerVR_GT7xxx
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED827700] Android_PowerVR_GE8xxx
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED858500] Android_PowerVR_GM9xxx
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED825500] Android_PowerVR_GM9xxx_Vulkan
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED85AE00] Android_TegraK1
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED826400] Android_Unknown_Vulkan
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED859300] Lumin
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED826D00] Lumin_Desktop
+[2023.01.08-23.36.34:852][  4]LogDeviceProfile: Device profile begin destroy: [0000016FED858C00] HoloLens
+[2023.01.08-23.36.34:861][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.08-23.36.34:898][  4]LogExit: Game engine shut down
+[2023.01.08-23.36.34:901][  4]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.01.08-23.36.34:947][  4]LogExit: Object subsystem successfully closed.
+[2023.01.08-23.36.34:962][  4]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (492)
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module SequenceRecorder (490)
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module AutomationController (488)
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module AutomationWorker (486)
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module Voice (484)
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module AIModule (482)
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module GameplayDebugger (481)
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module AITestSuite (479)
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module NavigationSystem (477)
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module AnimGraph (474)
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (472)
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (470)
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module WebMMedia (468)
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (466)
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (464)
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (462)
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (460)
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (458)
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module PlanarCut (456)
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module CharacterAI (454)
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module SessionServices (452)
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (450)
+[2023.01.08-23.36.34:970][  4]LogModuleManager: Shutting down and abandoning module LiveCoding (448)
+[2023.01.08-23.36.34:971][  4]LogModuleManager: Shutting down and abandoning module LevelSequence (446)
+[2023.01.08-23.36.34:971][  4]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (444)
+[2023.01.08-23.36.34:971][  4]LogModuleManager: Shutting down and abandoning module MovieScene (442)
+[2023.01.08-23.36.34:971][  4]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (440)
+[2023.01.08-23.36.34:971][  4]LogModuleManager: Shutting down and abandoning module PortalServices (438)
+[2023.01.08-23.36.34:971][  4]LogModuleManager: Shutting down and abandoning module PortalRpc (436)
+[2023.01.08-23.36.34:971][  4]LogModuleManager: Shutting down and abandoning module MessagingRpc (434)
+[2023.01.08-23.36.34:971][  4]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (432)
+[2023.01.08-23.36.34:971][  4]LogModuleManager: Shutting down and abandoning module AudioMixerCore (431)
+[2023.01.08-23.36.34:971][  4]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2023.01.08-23.36.34:973][  4]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2023.01.08-23.36.34:986][  4]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2023.01.08-23.36.34:986][  4]LogModuleManager: Shutting down and abandoning module Synthesis (422)
+[2023.01.08-23.36.34:986][  4]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (420)
+[2023.01.08-23.36.34:986][  4]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (418)
+[2023.01.08-23.36.34:986][  4]LogModuleManager: Shutting down and abandoning module GooglePAD (416)
+[2023.01.08-23.36.34:986][  4]LogModuleManager: Shutting down and abandoning module EditableMesh (414)
+[2023.01.08-23.36.34:986][  4]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (412)
+[2023.01.08-23.36.34:986][  4]LogModuleManager: Shutting down and abandoning module CableComponent (410)
+[2023.01.08-23.36.34:986][  4]LogModuleManager: Shutting down and abandoning module AudioCapture (408)
+[2023.01.08-23.36.34:986][  4]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (407)
+[2023.01.08-23.36.34:986][  4]LogModuleManager: Shutting down and abandoning module AssetTags (404)
+[2023.01.08-23.36.34:986][  4]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (402)
+[2023.01.08-23.36.34:986][  4]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (400)
+[2023.01.08-23.36.34:986][  4]LogModuleManager: Shutting down and abandoning module AppleImageUtils (398)
+[2023.01.08-23.36.34:986][  4]LogModuleManager: Shutting down and abandoning module AndroidPermission (396)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (394)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module TemplateSequence (392)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module ImgMedia (390)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (386)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (384)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (382)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (380)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (378)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module MotoSynth (376)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module MeshConversion (374)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module DynamicMesh (372)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (370)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module GeometricObjects (368)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (366)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (365)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (361)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module GeometryCache (358)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (357)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module ChaosNiagara (354)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (353)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module BackChannel (350)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module AutomationUtils (348)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (346)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (344)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module HotReload (343)
+[2023.01.08-23.36.34:987][  4]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (342)
+[2023.01.08-23.36.34:988][  4]LogModuleManager: Shutting down and abandoning module UObjectPlugin (338)
+[2023.01.08-23.36.34:988][  4]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (336)
+[2023.01.08-23.36.34:988][  4]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (334)
+[2023.01.08-23.36.34:988][  4]LogModuleManager: Shutting down and abandoning module SourceControl (333)
+[2023.01.08-23.36.34:988][  4]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (330)
+[2023.01.08-23.36.34:988][  4]LogModuleManager: Shutting down and abandoning module SoundFields (328)
+[2023.01.08-23.36.34:988][  4]LogModuleManager: Shutting down and abandoning module SignificanceManager (326)
+[2023.01.08-23.36.34:988][  4]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (324)
+[2023.01.08-23.36.34:988][  4]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (322)
+[2023.01.08-23.36.34:988][  4]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (320)
+[2023.01.08-23.36.34:988][  4]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (316)
+[2023.01.08-23.36.34:988][  4]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (314)
+[2023.01.08-23.36.34:988][  4]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (312)
+[2023.01.08-23.36.34:988][  4]LogModuleManager: Shutting down and abandoning module ActorSequence (310)
+[2023.01.08-23.36.34:988][  4]LogModuleManager: Shutting down and abandoning module UdpMessaging (308)
+[2023.01.08-23.36.35:090][  4]LogModuleManager: Shutting down and abandoning module TcpMessaging (306)
+[2023.01.08-23.36.35:730][  4]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (304)
+[2023.01.08-23.36.35:730][  4]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (302)
+[2023.01.08-23.36.35:730][  4]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (300)
+[2023.01.08-23.36.35:730][  4]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (298)
+[2023.01.08-23.36.35:730][  4]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (296)
+[2023.01.08-23.36.35:730][  4]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2023.01.08-23.36.35:730][  4]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (294)
+[2023.01.08-23.36.35:730][  4]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2023.01.08-23.36.35:731][  4]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (290)
+[2023.01.08-23.36.35:731][  4]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (288)
+[2023.01.08-23.36.35:731][  4]LogModuleManager: Shutting down and abandoning module MagicLeapController (286)
+[2023.01.08-23.36.35:731][  4]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.01.08-23.36.35:731][  4]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (284)
+[2023.01.08-23.36.35:731][  4]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2023.01.08-23.36.35:731][  4]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2023.01.08-23.36.35:731][  4]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (278)
+[2023.01.08-23.36.35:731][  4]LogModuleManager: Shutting down and abandoning module Niagara (276)
+[2023.01.08-23.36.35:731][  4]LogModuleManager: Shutting down and abandoning module SignalProcessing (275)
+[2023.01.08-23.36.35:731][  4]LogModuleManager: Shutting down and abandoning module NiagaraEditor (273)
+[2023.01.08-23.36.35:731][  4]LogModuleManager: Shutting down and abandoning module NiagaraCore (270)
+[2023.01.08-23.36.35:731][  4]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2023.01.08-23.36.35:731][  4]LogModuleManager: Shutting down and abandoning module FacialAnimation (266)
+[2023.01.08-23.36.35:731][  4]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (264)
+[2023.01.08-23.36.35:731][  4]LogModuleManager: Shutting down and abandoning module TreeMap (263)
+[2023.01.08-23.36.35:731][  4]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (260)
+[2023.01.08-23.36.35:731][  4]LogModuleManager: Shutting down and abandoning module AnimationSharing (258)
+[2023.01.08-23.36.35:731][  4]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (256)
+[2023.01.08-23.36.35:731][  4]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (254)
+[2023.01.08-23.36.35:731][  4]LogModuleManager: Shutting down and abandoning module Paper2D (252)
+[2023.01.08-23.36.35:731][  4]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (250)
+[2023.01.08-23.36.35:732][  4]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (248)
+[2023.01.08-23.36.35:732][  4]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (246)
+[2023.01.08-23.36.35:732][  4]LogModuleManager: Shutting down and abandoning module PacketHandler (244)
+[2023.01.08-23.36.35:732][  4]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (242)
+[2023.01.08-23.36.35:732][  4]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (240)
+[2023.01.08-23.36.35:732][  4]LogModuleManager: Shutting down and abandoning module MediaAssets (238)
+[2023.01.08-23.36.35:732][  4]LogModuleManager: Shutting down and abandoning module Overlay (236)
+[2023.01.08-23.36.35:732][  4]LogModuleManager: Shutting down and abandoning module OverlayEditor (235)
+[2023.01.08-23.36.35:732][  4]LogModuleManager: Shutting down and abandoning module VREditor (232)
+[2023.01.08-23.36.35:732][  4]LogModuleManager: Shutting down and abandoning module StringTableEditor (230)
+[2023.01.08-23.36.35:732][  4]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (228)
+[2023.01.08-23.36.35:732][  4]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (226)
+[2023.01.08-23.36.35:732][  4]LogModuleManager: Shutting down and abandoning module FunctionalTesting (224)
+[2023.01.08-23.36.35:732][  4]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (222)
+[2023.01.08-23.36.35:732][  4]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (221)
+[2023.01.08-23.36.35:732][  4]LogModuleManager: Shutting down and abandoning module UMG (218)
+[2023.01.08-23.36.35:732][  4]LogModuleManager: Shutting down and abandoning module UMGEditor (217)
+[2023.01.08-23.36.35:732][  4]LogModuleManager: Shutting down and abandoning module Sequencer (216)
+[2023.01.08-23.36.35:732][  4]LogModuleManager: Shutting down and abandoning module MessageLog (213)
+[2023.01.08-23.36.35:732][  4]LogModuleManager: Shutting down and abandoning module SlateReflector (208)
+[2023.01.08-23.36.35:732][  4]LogModuleManager: Shutting down and abandoning module Slate (206)
+[2023.01.08-23.36.35:732][  4]LogModuleManager: Shutting down and abandoning module SlateCore (204)
+[2023.01.08-23.36.35:733][  4]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2023.01.08-23.36.35:733][  4]LogModuleManager: Shutting down and abandoning module UnrealEd (200)
+[2023.01.08-23.36.35:733][  4]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2023.01.08-23.36.35:733][  4]LogModuleManager: Shutting down and abandoning module Messaging (196)
+[2023.01.08-23.36.35:733][  4]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2023.01.08-23.36.35:733][  4]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2023.01.08-23.36.35:733][  4]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2023.01.08-23.36.35:733][  4]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2023.01.08-23.36.35:733][  4]LogModuleManager: Shutting down and abandoning module Core (186)
+[2023.01.08-23.36.35:734][  4]LogModuleManager: Shutting down and abandoning module MaterialEditor (184)
+[2023.01.08-23.36.35:734][  4]LogModuleManager: Shutting down and abandoning module MovieSceneTools (182)
+[2023.01.08-23.36.35:734][  4]LogModuleManager: Shutting down and abandoning module EditorStyle (181)
+[2023.01.08-23.36.35:734][  4]LogModuleManager: Shutting down and abandoning module KismetCompiler (178)
+[2023.01.08-23.36.35:734][  4]LogModuleManager: Shutting down and abandoning module MeshBuilder (176)
+[2023.01.08-23.36.35:734][  4]LogModuleManager: Shutting down and abandoning module MeshUtilities (174)
+[2023.01.08-23.36.35:734][  4]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (173)
+[2023.01.08-23.36.35:734][  4]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (172)
+[2023.01.08-23.36.35:734][  4]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (171)
+[2023.01.08-23.36.35:734][  4]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (169)
+[2023.01.08-23.36.35:734][  4]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (167)
+[2023.01.08-23.36.35:734][  4]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2023.01.08-23.36.35:734][  4]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2023.01.08-23.36.35:734][  4]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (156)
+[2023.01.08-23.36.35:734][  4]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (154)
+[2023.01.08-23.36.35:734][  4]LogModuleManager: Shutting down and abandoning module DerivedDataCache (152)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (135)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (133)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (131)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (129)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module ImageWrapper (128)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (119)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (117)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (115)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (113)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module InputCore (110)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module Settings (108)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module Chaos (104)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (102)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (101)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module AVEncoder (100)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2023.01.08-23.36.35:735][  4]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2023.01.08-23.36.35:736][  4]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2023.01.08-23.36.35:736][  4]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2023.01.08-23.36.35:738][  4]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2023.01.08-23.36.35:738][  4]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2023.01.08-23.36.35:747][  4]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2023.01.08-23.36.35:749][  4]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2023.01.08-23.36.35:749][  4]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2023.01.08-23.36.35:750][  4]LogModuleManager: Shutting down and abandoning module Media (71)
+[2023.01.08-23.36.35:750][  4]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2023.01.08-23.36.35:750][  4]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2023.01.08-23.36.35:750][  4]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2023.01.08-23.36.35:750][  4]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2023.01.08-23.36.35:750][  4]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2023.01.08-23.36.35:750][  4]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2023.01.08-23.36.35:750][  4]LogModuleManager: Shutting down and abandoning module ChaosCloth (56)
+[2023.01.08-23.36.35:750][  4]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2023.01.08-23.36.35:750][  4]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.01.08-23.36.35:751][  4]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.01.08-23.36.35:968][  4]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.01.08-23.36.35:968][  4]LogD3D11RHI: Shutdown
+[2023.01.08-23.36.35:968][  4]LogD3D11RHI: CleanupD3DDevice
+[2023.01.08-23.36.35:979][  4]LogExit: Exiting.
+[2023.01.08-23.36.35:985][  4]Log file closed, 01/08/23 23:36:35
